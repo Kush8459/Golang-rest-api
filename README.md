@@ -1,4 +1,3 @@
-```
 # Go RESTful API with SQLite
 
 A simple and lightweight RESTful API built with Go (Golang) and SQLite.  
@@ -33,15 +32,16 @@ This project demonstrates how to perform basic CRUD (Create, Read, Update, Delet
 ├── go.sum
 └── README.md
 
-````
+```
 
 ## Setup & Installation
 
-### 1. Clone the repository  
+### 1. Clone the repository 
+
 ```bash
 git clone https://github.com/Kush8459/Golang-rest-api.git
 cd Golang-rest-api
-````
+```
 
 ### 2. Download dependencies
 
@@ -85,4 +85,3 @@ http://localhost:8082
 }
 ```
 
-```
